@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="text_size">24sp</dimen>
+    <dimen name="design_bottom_navigation_item_max_width" toolsoverride="true">600dp</dimen>
+    <dimen name="design_bottom_navigation_active_item_max_width" toolsoverride="true">600dp</dimen>
 </resources>
