@@ -10,4 +10,5 @@
     <string name="budget_state">You currently have no budget</string>
     <string name="bank_account_state">No account record</string>
     <string name="transaction_state">No record</string>
+    <string name="Notification">Notification</string>
 </resources>
