@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PersonalFinance</string>
+    <string name="overview">OVERVIEW</string>
+    <string name="budget">BUDGET</string>
+    <string name="bank_account">BANK ACCOUNTS</string>
+    <string name="transactions">TRANSACTIONS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

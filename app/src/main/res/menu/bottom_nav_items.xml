@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/overview"
+        android:icon="@drawable/ic_overview"
+        android:title="@string/overview" />
+    <item
+        android:id="@+id/budget"
+        android:icon="@drawable/ic_budget"
+        android:title="@string/budget" />
+    <item
+        android:id="@+id/bankAccount"
+        android:icon="@drawable/bankaccount"
+        android:title="@string/bank_account" />
+    <item
+        android:id="@+id/transaction"
+        android:icon="@drawable/ic_transactions"
+        android:title="@string/transactions" />
+</menu>
