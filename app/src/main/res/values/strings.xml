@@ -11,4 +11,15 @@
     <string name="bank_account_state">No account record</string>
     <string name="transaction_state">No record</string>
     <string name="Notification">Notification</string>
+    <string name="transaction_info">All done.. tap to see transactions </string>
+    <string name="image_description_trans">View Transaction Details</string>
+    <string name="secure_your_app">Secure KliQr using a Screen Lock</string>
+    <string name="bank_balance_image">Bank Balance Image</string>
+    <string name="available_balance_heading">Available Balance</string>
+    <string name="amount_in_account">$500</string>
+    <string name="bank_image">Bank Image</string>
+    <string name="account_number">328XXXX123</string>
+    <string name="bank_name">GTBank</string>
+    <string name="timing">Checked 30 Mar 2020</string>
+    <string name="amount_on_card_bank_balance">$500</string>
 </resources>
