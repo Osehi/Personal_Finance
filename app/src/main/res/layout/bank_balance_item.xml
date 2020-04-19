@@ -145,6 +145,7 @@
                             android:layout_gravity="end"
                             />
                         <TextView
+                            android:id="@+id/amountInAccountId"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/amount_on_card_bank_balance"
